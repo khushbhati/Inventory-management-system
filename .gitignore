@@ -1,0 +1,30 @@
+# dependencies
+node_modules
+/node_modules
+
+# production
+/dist
+/build
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+*.sqlite
+*.sqlite3
+database.db
+
+# Vite
+.vite
+
+# misc
+.cache
